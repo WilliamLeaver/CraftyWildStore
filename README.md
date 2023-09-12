@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This web app is deployed on AWS Amplify and can be found [`here`](https://main.dildc799q0ldh.amplifyapp.com/)
+
 ## Getting Started
 
 First, run the development server:
@@ -18,4 +20,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-This site is being created for my wife Anna Leaver. Until the site has been depolyed you can find her work on instagram @the.craftywildflower 
+This site is being created for my wife Anna Leaver. instagram @the.craftywildflower 
